@@ -1,0 +1,1 @@
+To run this project, you need a Redis server running on Docker (default port 6379) and a PostgreSQL database (default port 5432). You can check the API functionality using Postman. Make sure to adjust the properties for database and Redis connections in the application configuration file.
